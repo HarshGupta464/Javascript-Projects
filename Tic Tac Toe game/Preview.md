@@ -9,7 +9,7 @@ A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 ## 📸 Screenshot
 
-![Game Screenshot](Images/ss1.png)
+![Game Screenshot](Images/ss1.PNG)
 
 ## 🛠️ Tech Used
 - HTML
