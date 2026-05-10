@@ -8,7 +8,7 @@ A simple and dynamic **Currency Converter Web App** built using **JavaScript**, 
 
 - 🔄 Convert between multiple currencies  
 - 🌍 Real-time exchange rates using API  
-- 🇺🇸 Country flags update dynamically  
+- 🇮🇳 Country flags update dynamically  
 - 🔁 Swap currencies feature  
 - ⚡ Instant calculation on selection change  
 - 🎯 Clean and responsive UI  
