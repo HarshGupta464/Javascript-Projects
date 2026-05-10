@@ -63,11 +63,22 @@ Currency-Converter/
 ## ▶️ Run Locally
 
 1. Clone the repository  
+
 ```bash
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/HarshGupta464/Javascript-Projects.git
 ```
 
-2. Open `index.html` in your browser  
+2. Navigate to the project folder  
+
+```bash
+cd Javascript-Projects/Currency\ Converter
+```
+
+3. Open `index.html` in your browser  
+
+OR  
+
+Use the VS Code **Live Server** extension for better experience.
 
 ---
 
