@@ -26,7 +26,7 @@ A simple and dynamic **Currency Converter Web App** built using **JavaScript**, 
 
 ## 📸 Preview
 
-![Currency Converter UI](Image/screenshot.png)
+![Currency Converter UI](/Image/screenshot.png)
 
 
 
